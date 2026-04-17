@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Node / build
+node_modules/
+
+# Logs
+*.log
+
+# Python (if any)
+__pycache__/
+*.pyc
+
+# Env
+.env
